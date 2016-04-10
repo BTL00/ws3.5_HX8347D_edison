@@ -1,4 +1,4 @@
-# ws3.5_edison
+# ws3.5_HX8347D_edison
 Intel Edison Arduino Breakout Kit compatible library for Waveshare 3.5'' 320x240 LCD shield with XPT2046 Touchscreen controller.
 
 I created library to make this thing work with Intel Edison. 
